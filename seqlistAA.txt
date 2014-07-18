@@ -1,0 +1,168 @@
+                         SEQUENCE LISTING
+
+<110>  Doschak, Michael
+       Bhandari, Krishna
+       Yang, Yang
+ 
+<120>  Parathyroid Hormone, Insulin, and Related Peptides Conjugated to 
+       Bone Targeting Moieties and Methods of Making and Using Thereof
+
+<130>  24T04.2-220
+
+<150>  61/693,818
+<151>  2012-08-28
+
+<160>  6     
+
+<170>  PatentIn version 3.5
+
+<210>  1
+<211>  34
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  1
+
+Ser Val Ser Glu Ile Gln Leu Met His Asn Leu Gly Lys His Leu Asn 
+1               22                  10                  15      
+
+
+Ser Met Glu Arg Val Glu Trp Leu Arg Lys Lys Leu Gln Asp Val His 
+            20                  25                  30          
+
+
+Asn Phe 
+        
+
+
+<210>  2
+<211>  84
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  2
+
+Ser Val Ser Glu Ile Gln Leu Met His Asn Leu Gly Lys His Leu Asn 
+1               5                   10                  15      
+
+
+Ser Met Glu Arg Val Glu Trp Leu Arg Lys Lys Leu Gln Asp Val His 
+            20                  25                  30          
+
+
+Asn Phe Val Ala Leu Gly Ala Pro Leu Ala Pro Arg Asp Ala Gly Ser 
+        35                  40                  45              
+
+
+Gln Arg Pro Arg Lys Lys Glu Asp Asn Val Leu Val Glu Ser His Glu 
+    50                  55                  60                  
+
+
+Lys Ser Leu Gly Glu Ala Asp Lys Ala Asp Val Asn Val Leu Thr Lys 
+65                  70                  75                  80  
+
+
+Ala Lys Ser Gln 
+                
+
+
+<210>  3
+<211>  141
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  3
+
+Met Gln Arg Arg Leu Val Gln Gln Trp Ser Val Ala Val Phe Leu Leu 
+1               5                   10                  15      
+
+
+Ser Tyr Ala Val Pro Ser Cys Gly Arg Ser Val Glu Gly Leu Ser Arg 
+            20                  25                  30          
+
+
+Arg Leu Lys Arg Ala Val Ser Glu His Gln Leu Leu His Asp Lys Gly 
+        35                  40                  45              
+
+
+Lys Ser Ile Gln Asp Leu Arg Arg Arg Phe Phe Leu His His Leu Ile 
+    50                  55                  60                  
+
+
+Ala Glu Ile His Thr Ala Glu Ile Arg Ala Thr Ser Glu Val Ser Pro 
+65                  70                  75                  80  
+
+
+Asn Ser Lys Pro Ser Pro Asn Thr Lys Asn His Pro Val Arg Phe Gly 
+                85                  90                  95      
+
+
+Ser Asp Asp Glu Gly Arg Tyr Leu Thr Gln Glu Thr Asn Lys Val Glu 
+            100                 105                 110         
+
+
+Thr Tyr Lys Glu Gln Pro Leu Lys Thr Pro Gly Lys Lys Lys Lys Gly 
+        115                 120                 125             
+
+
+Lys Pro Gly Lys Arg Lys Glu Gln Glu Lys Lys Lys Arg 
+    130                 135                 140     
+
+
+<210>  4
+<211>  21
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  4
+
+Gly Ile Val Gln Gln Cys Cys Thr Ser Ile Cys Ser Leu Tyr Leu Gln 
+1               5                   10                  15      
+
+
+Glu Asn Tyr Cys Asn 
+            20      
+
+
+<210>  5
+<211>  30
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  5
+
+Phe Val Asn Gln His Leu Cys Gly Ser His Leu Val Glu Ala Leu Tyr 
+1               5                   10                  15      
+
+
+Leu Val Cys Gly Glu Arg Gly Phe Phe Tyr Thr Pro Lys Thr 
+            20                  25                  30  
+
+
+<210>  6
+<211>  70
+<212>  PRT
+<213>  Homo sapiens
+
+<400>  6
+
+Gly Pro Glu Thr Leu Cys Gly Ala Glu Leu Val Asp Ala Leu Gln Phe 
+1               5                   10                  15      
+
+
+Val Cys Gly Asp Arg Gly Phe Tyr Phe Asn Lys Pro Thr Gly Tyr Gly 
+            20                  25                  30          
+
+
+Ser Ser Ser Arg Arg Ala Pro Gln Thr Gly Ile Val Asp Glu Cys Cys 
+        35                  40                  45              
+
+
+Phe Arg Ser Cys Asp Leu Arg Arg Leu Glu Met Tyr Cys Ala Pro Leu 
+    50                  55                  60                  
+
+
+Lys Pro Ala Lys Ser Ala 
+65                  70  
+
+
